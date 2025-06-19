@@ -1,1 +1,2 @@
-# mi-app-firebase
+# alumnoscrud
+CRUD de Alumnos (Firestore)
